@@ -1,0 +1,30 @@
+dice+2d6
+dice+3d8
+8d20
+2d4
+100d3
+asd
+OP
+(You)
+
+[red] myred [/red]
+[blue] myblue [/blue]
+[green] myblue [/green]
+
+text
+
+[b] bold [/b]
+[i] italics [/i]
+[spoiler] spoiler [/spoiler]
+[code]foobar();[/code]
+
+text
+
+>be me
+>write vim highlighting
+	>need test file
+
+<pink text
+<more
+
+== RED TEXT ==
