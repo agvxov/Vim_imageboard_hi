@@ -2,4 +2,4 @@
 Highlighting scripts for imageboard text.
 
 # Installation
-Drop the files from src/ to your .Vim/.
+Drop the files from .vim/ to your .vim/.
